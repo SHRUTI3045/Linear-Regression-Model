@@ -1,7 +1,5 @@
 pandas
+numpy
 matplotlib
-sklearn
-LinearRegression
-train_test_split
-mean_squared_error
-r2_score
+sklearn(LinearRegression, train_test_split, metrics)
+python
