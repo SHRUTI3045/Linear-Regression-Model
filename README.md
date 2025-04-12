@@ -1,38 +1,32 @@
-# Linear Regression Model
+# 🧠 Machine Learning Algorithms – A Practical Notebook Series
 
-A simple Linear Regression model built using Python and Scikit-learn to predict a continuous outcome from input data. This project focuses on understanding the concept of linear regression, training a model, visualizing results, and evaluating performance using standard metrics.
-
----
-
-## 📌 Objective
-
-To build a regression model that predicts outcomes based on input features using the line of best fit, and understand how the model learns, generalizes, and performs.
+This repository contains hands-on implementation of key supervised machine learning algorithms applied on real-world datasets. Each notebook demonstrates the full workflow — from data preprocessing to model training, evaluation, and insights.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- NumPy, Pandas
-- Matplotlib
-- Scikit-learn (LinearRegression, train_test_split, metrics)
+Check in the requirements.txt file.
 
 ---
 
 ## 📊 Dataset
 
-Used the [Diabetes dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) from Scikit-learn or alternatively [this Kaggle dataset](https://www.kaggle.com/datasets/andonians/random-linear-regression).
+- Used the [Diabetes dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) from Scikit-learn or alternatively [this Kaggle dataset](https://www.kaggle.com/datasets/andonians/random-linear-regression) for Linear Regression Model.
+- Used the [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) for Logistic Regression Model.
 
 ---
 
-## 🚀 Project Highlights
+## 📚 Algorithms Covered
 
-- Implemented Linear Regression using `scikit-learn`
-- Visualized the data and regression line using Matplotlib
-- Evaluated the model using **Mean Squared Error (MSE)** and **R² score**
-- Interpreted model behavior and insights from results
+| Algorithm             | Notebook Title                          | Dataset Used           |
+|-----------------------|------------------------------------------|-------------------------|
+| Linear Regression   | `Linear_Regression_Model.ipynb `     | Dibetes Dataset (Kaggle) |
+| Logistic Regression  | `Titanic_Logistic_Regression.ipynb`         | Titanic Dataset (Kaggle) |
 
 ---
+
+*(More models will be added soon)*
 
 ## 📈 How to Run
 
