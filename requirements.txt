@@ -1,5 +1,6 @@
 pandas
 numpy
+seaborn
 matplotlib
-sklearn(LinearRegression, train_test_split, metrics)
+sklearn(LinearRegression, LogisticRegression, train_test_split, metrics)
 python
